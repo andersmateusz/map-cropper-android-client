@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_soap_server_host">localhost:65089</string>
+    <string name="config_soap_server_address">http://10.0.2.2:65089</string>
+    <string name="config_soap_namespace">urn:MapCropper</string>
+</resources>
